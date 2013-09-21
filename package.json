@@ -1,0 +1,28 @@
+{
+  "name": "yamli",
+  "version": "0.0.0",
+  "description": "Adds !include support to js-yaml",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "util-extend": "~1.0.1"
+  },
+  "peerDependencies": {
+    "js-yaml": "~2"
+  },
+  "keywords": [
+    "yaml",
+    "include"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/yamli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tellnes/yamli/issues"
+  }
+}
