@@ -1,6 +1,6 @@
 {
   "name": "yamli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds !include support to js-yaml",
   "main": "index.js",
   "directories": {
